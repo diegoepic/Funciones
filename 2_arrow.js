@@ -7,4 +7,4 @@ let suma = function(a, b){
 
 //Funcion tipo arrow
 
-let suma = (a, b) => a + b
+let suma = (a, b) => a + b;

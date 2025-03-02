@@ -1,9 +1,9 @@
 // Función declarada
-function example(nombre){
-   alert("hola" + nombre)
+function example(a,b,c){
+   return a + b + c
     }
 
 //función expresada
-let example = function(nombre){
-    alert("hola" + nombre)
-}
+let example = function(a,b,c){
+    return a + b + c
+    }
