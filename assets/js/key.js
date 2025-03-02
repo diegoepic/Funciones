@@ -13,7 +13,7 @@ document.addEventListener('keydown', function (event) {
     let div = document.createElement('div');
     div.style.width = '200px';
     div.style.height = '200px';
-    div.style.backgroundColor ='magenta';
+    div.style.backgroundColor ='MediumOrchidgt';
     div.style.border = '10px solid black';
     document.body.appendChild(div);
     }
@@ -29,7 +29,7 @@ document.addEventListener('keydown', function (event) {
         let div = document.createElement('div');
         div.style.width = '200px';
         div.style.height = '200px';
-        div.style.backgroundColor ='brown';
+        div.style.backgroundColor ='Sienna';
         div.style.border = '10px solid black';
         document.body.appendChild(div);
         }    
